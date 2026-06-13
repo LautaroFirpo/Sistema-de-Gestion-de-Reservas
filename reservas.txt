@@ -1,0 +1,6 @@
+S,2001,Juan Perez,3,25000
+P,2002,Ana Gomez,2,40000,SPA
+S,2003,Luis Diaz,5,22000
+P,2004,Marina Lopez,4,35000,COCHERA
+S,2005,Carlos Ruiz,2,30000
+P,2006,Sofia Diaz,3,45000,SPA

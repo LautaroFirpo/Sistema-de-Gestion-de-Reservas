@@ -41,8 +41,8 @@ public abstract class Reserva {
 	}
 	@Override
 	public String toString() {
-		return  codigo + ", cliente=" + cliente + ", cantNoches=" + cantNoches + ", precioNoche="
-				+ precioNoche + "]";
+		return  codigo + ", cliente: " + cliente + ", cantNoches: " + cantNoches + ", precioNoche: "
+				+ precioNoche;
 	};
 	
 	
